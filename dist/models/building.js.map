@@ -1,1 +1,0 @@
-{"version":3,"file":"building.js","sourceRoot":"","sources":["../../src/models/building.ts"],"names":[],"mappings":";;;AAAA,qCAAyC;AAEzC,IAAM,cAAc,GAAG,IAAI,iBAAM,CAAC;IAC9B,IAAI,EAAE;QACF,IAAI,EAAE,MAAM;QACZ,QAAQ,EAAE,IAAI;KACjB;CACJ,CAAC,CAAC;AACU,QAAA,cAAc,GAAG,UAAU,CAAC;AAC5B,QAAA,aAAa,GAAG,gBAAK,CAAC,sBAAc,EAAE,cAAc,CAAC,CAAC"}
