@@ -132,6 +132,8 @@ getConnection()
             },
             typeDefs,
             resolvers,
+            introspection: true,
+            playground: true,
             context: async ({ req }: { req: any }) => {
                 return {};
             },
