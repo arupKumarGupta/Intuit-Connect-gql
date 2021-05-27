@@ -9,3 +9,7 @@
    DB_NAME=<db-name>
    PORT=<PORT>
 ```
+
+#Heroku Deployment Link
+
+> https://intuit-connect.herokuapp.com/
